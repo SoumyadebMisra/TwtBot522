@@ -65,5 +65,4 @@ var tweetIt = () => {
     });
 };
 
-tweetIt();
-setInterval(tweetIt, 1000 * 60*60*24);
+setInterval(tweetIt, 1000 *60*60*24);
